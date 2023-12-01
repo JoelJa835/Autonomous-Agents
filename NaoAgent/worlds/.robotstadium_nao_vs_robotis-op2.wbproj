@@ -6,7 +6,7 @@ minimizedPerspectives: 000000ff00000000fd0000000200000001000001e10000029cfc02000
 maximizedDockId: -1
 centralWidgetVisible: 1
 orthographicViewHeight: 1
-textFiles: 7 "controllers/nao_team_1/nao_team_1.java" "controllers/nao_team_1/GoalKeeper.java" "controllers/nao_team_1/NaoCam.java" "controllers/nao_team_1/RoboCupGameControlData.java" "controllers/nao_team_1/RobotInfo.java" "controllers/nao_team_1/SoccerPlayer.java" "controllers/nao_team_1/TeamInfo.java" "controllers/nao_team_1/Player.java"
+textFiles: 7 "../NaoAgent/controllers/nao_team_1/nao_team_1.java" "../NaoAgent/controllers/nao_team_1/GoalKeeper.java" "../NaoAgent/controllers/nao_team_1/NaoCam.java" "../NaoAgent/controllers/nao_team_1/RoboCupGameControlData.java" "../NaoAgent/controllers/nao_team_1/RobotInfo.java" "../NaoAgent/controllers/nao_team_1/SoccerPlayer.java" "../NaoAgent/controllers/nao_team_1/TeamInfo.java" "../NaoAgent/controllers/nao_team_1/Player.java"
 consoles: Console:All:All
 renderingDevicePerspectives: NAO:CameraBottom;0;1;0.0491682;0.570423
 renderingDevicePerspectives: NAO:CameraTop;0;1;0;0.570423
