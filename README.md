@@ -1,2 +1,2 @@
 # Autonomous-Agents
-Series of projects related to autonomous agents
+Series of projects for the course Autonomous Agents in the environment webots.
